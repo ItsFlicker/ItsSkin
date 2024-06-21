@@ -1,0 +1,4 @@
+skins:
+  empty:
+    source: 'empty'
+    custom-model-data: 0
